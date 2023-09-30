@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Onkar</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
+[![Onkar Sabale's Holopin badges](https://holopin.me/onkarsabale15/badges)](https://holopin.io/@onkarsabale15)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarsabale15&label=Profile%20views&color=0e75b6&style=flat" alt="onkarsabale15" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkarsabale15" alt="onkarsabale15" /></a> </p>
 - 📫 How to reach me: onkarsabale15@gmail.com
